@@ -1,0 +1,16 @@
+nom{
+    font-size: 25pt;
+    font-weight: bold;
+    color: red;
+    display: block;
+}
+prenom{
+    font-size: 15pt;
+    color: blue;
+    display: block;
+}
+age{
+    font-size: 10pt;
+    color: green;
+    display: block;
+}

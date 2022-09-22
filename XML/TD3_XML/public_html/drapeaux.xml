@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tableau SYSTEM "drapeaux.dtd">
+<?xml-stylesheet href="drapeaux.xsl" type="text/xsl" ?>
+
+    <tableau>
+        <ligne>            
+            <pays nomPays="USA"/>
+            <medaille typeMedaille ="OR"> 46</medaille>
+            <medaille typeMedaille ="ARGENT"> 37</medaille>
+            <medaille typeMedaille ="BRONZE"> 38</medaille>
+            <totalMedaille>121</totalMedaille>
+           
+        </ligne>
+        <ligne>            
+            <pays nomPays="GrandeBretagne"/>
+            <medaille typeMedaille ="OR"> 27</medaille>
+            <medaille typeMedaille ="ARGENT"> 23</medaille>
+            <medaille typeMedaille ="BRONZE"> 12</medaille>
+            <totalMedaille>121</totalMedaille> 
+        </ligne>
+        <ligne>            
+            <pays nomPays="Chine"/>
+            <medaille typeMedaille ="OR"> 26</medaille>
+            <medaille typeMedaille ="ARGENT"> 18</medaille>
+            <medaille typeMedaille ="BRONZE"> 26</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+        <ligne>            
+            <pays nomPays="Russie"/>
+            <medaille typeMedaille ="OR"> 19</medaille>
+            <medaille typeMedaille ="ARGENT"> 18</medaille>
+            <medaille typeMedaille ="BRONZE"> 19</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>       
+        <ligne>            
+            <pays nomPays="Allemagne"/>
+            <medaille typeMedaille ="OR"> 17</medaille>
+            <medaille typeMedaille ="ARGENT"> 10</medaille>
+            <medaille typeMedaille ="BRONZE"> 15</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+        <ligne>            
+            <pays nomPays="Japon"/>
+            <medaille typeMedaille ="OR"> 12</medaille>
+            <medaille typeMedaille ="ARGENT"> 8</medaille>
+            <medaille typeMedaille ="BRONZE"> 21</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+        <ligne>            
+            <pays nomPays="France"/>
+            <medaille typeMedaille ="OR"> 10</medaille>
+            <medaille typeMedaille ="ARGENT"> 18</medaille>
+            <medaille typeMedaille ="BRONZE"> 14</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+        <ligne>            
+            <pays nomPays="Coreedusud"/>
+            <medaille typeMedaille ="OR"> 9</medaille>
+            <medaille typeMedaille ="ARGENT"> 3</medaille>
+            <medaille typeMedaille ="BRONZE"> 9</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+        <ligne>            
+            <pays nomPays="Italie"/>
+            <medaille typeMedaille ="OR"> 8</medaille>
+            <medaille typeMedaille ="ARGENT"> 12</medaille>
+            <medaille typeMedaille ="BRONZE"> 8</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+        <ligne>            
+            <pays nomPays="Australie"/>
+            <medaille typeMedaille ="OR"> 8</medaille>
+            <medaille typeMedaille ="ARGENT"> 11</medaille>
+            <medaille typeMedaille ="BRONZE"> 10</medaille>
+            <totalMedaille>121</totalMedaille>
+        </ligne>
+    </tableau>

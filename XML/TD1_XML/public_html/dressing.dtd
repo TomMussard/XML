@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT dressing (tshirts+,sweats+,pantalons+,chaussures+)>
+<!ELEMENT tshirts (taille?,couleur?,quantite?)>
+<!ELEMENT sweats (taille?,couleur?,quantite?)>
+<!ELEMENT pantalons (taille?,couleur?,quantite?)>
+<!ELEMENT chaussures (taille?,couleur?,quantite?)>
+<!ELEMENT taille (#PCDATA)>
+<!ELEMENT couleur (#PCDATA)>
+<!ELEMENT quantite (#PCDATA)>
+
+<!ATTLIST tshirts (taille | couleur | quantite) #REQUIRED>
+<!ATTLIST sweats (taille | couleur | quantite) #REQUIRED>
+<!ATTLIST pantalons (taille | couleur | quantite) #REQUIRED>
+<!ATTLIST chaussures (taille | couleur | quantite) #REQUIRED>
+
+

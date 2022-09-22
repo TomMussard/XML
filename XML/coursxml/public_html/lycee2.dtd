@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/lycee2.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE lycee SYSTEM "lycee2.dtd">
+
+    <lycee>
+    ...
+    </lycee>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT lycee (classe)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT classe (eleve|prof)*>
+<!ATTLIST classe
+    nom CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT eleve (nom|prenom|age)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT nom (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT prenom (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT age (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT prof (nom|prenom|age)*>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT iphone (identité+)>
+<!ELEMENT identité (modele*,date*,couleur*)>
+<!ELEMENT modele (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT couleur (#PCDATA)>
+
+<!ATTLIST classe nom CDATA #IMPLIED>
+
+

@@ -1,0 +1,37 @@
+tshirts{
+    font-size: 25pt;
+    font-weight: bold;
+    color: black;
+    display: block;
+    border: red 2px solid;
+    width: 30%;
+    text-align: center;
+}
+sweats{
+    font-size: 25pt;
+    font-weight: bold;
+    color: black;
+    display: block;
+    border: red 2px solid;
+    width: 30%;
+    text-align: center;
+}
+pantalons{
+    font-size: 25pt;
+    font-weight: bold;
+    color: black;
+    display: block;
+    border: red 2px solid;
+    width: 30%;
+    text-align: center;
+}
+chaussures{
+    font-size: 25pt;
+    font-weight: bold;
+    color: black;
+    display: block;
+    border: red 2px solid;
+    width: 30%;
+    text-align: center;
+}
+

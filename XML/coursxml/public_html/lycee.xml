@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lycee SYSTEM "lycee.dtd">
+<?xml-stylesheet href="lycee.xsl" type="text/css" ?>
+<?xml-stylesheet href="lycee2.css" type="text/css" ?>
+<lycee>
+    <classe nom="classe bidon">
+        <eleve>
+            <nom>bidochon</nom>
+            <prenom>robert</prenom>
+            <age>54</age>
+        </eleve>
+         <eleve>
+            <nom>galopin</nom>
+            <prenom>raymonde</prenom>
+            <age>52</age>
+        </eleve>
+        <prof>
+            <nom>lang</nom>
+            <prenom>jack</prenom>
+            <age>60</age>
+        </prof>
+        
+    </classe>
+</lycee>

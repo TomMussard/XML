@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dressing SYSTEM "dressing.dtd">
+<?xml-stylesheet href="dressing.css" type="text/css" ?>
+
+
+<dressing>
+    <tshirts>
+        <taille>M</taille>
+            <couleur>rouge</couleur>
+            <quantite>17</quantite>
+    </tshirts>
+    <sweats>
+        <taille>M</taille>
+            <couleur>noir</couleur>
+            <quantite>9</quantite>
+    </sweats>
+    <pantalons>
+        <taille>40</taille>
+            <couleur>bleu</couleur>
+            <quantite>6</quantite>
+    </pantalons>
+    <chaussures>
+        <taille>43</taille>
+            <couleur>jaune</couleur>
+            <quantite>8</quantite>
+    </chaussures>
+</dressing>
+

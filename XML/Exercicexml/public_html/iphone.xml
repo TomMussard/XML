@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lycee SYSTEM "iphone.dtd"
+<iphone>
+    <iphone nom="Iphone">
+        <identite>
+            <modele>Iphone 14</modele>
+            <date>10/09/202</date>
+            <couleur>Vert turquoise</couleur>
+        </identite>
+         <identite>
+            <modele>Iphone 3GS</modele>
+            <date>25/08/1997</date>
+            <couleur>marron</couleur>
+        </identite>
+    </iphone>
